@@ -11,4 +11,6 @@ This repository contains implementations of various Machine Learning and Deep Le
 ## Algorithms Implemented
 - Linear Regression
 - Polynomial Regression
-
+- KMeans clustering
+- Agglomerative Hierarchical Clustering
+- DBSCAN Clustering
