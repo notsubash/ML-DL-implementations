@@ -1,15 +1,14 @@
-# ML/DL Algorithms From Scratch
+# ML/DL Algorithms Implementations
 
-This repository contains implementations of various Machine Learning and Deep Learning algorithms from scratch using Python.
+This repository contains implementations of various Machine Learning and Deep Learning algorithms using Python.
 
 ## Structure
 - algorithms/: Core implementations of ML/DL algorithms
-- notebooks/: Example usage and visualizations
-- tests/: Unit tests
-- docs/: Documentation
 
 ## Getting Started
 
 
 ## Algorithms Implemented
+- Linear Regression
+- Polynomial Regression
 
