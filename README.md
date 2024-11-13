@@ -14,3 +14,4 @@ This repository contains implementations of various Machine Learning and Deep Le
 - KMeans clustering
 - Agglomerative Hierarchical Clustering
 - DBSCAN Clustering
+- Artificial Neural Network from scratch
