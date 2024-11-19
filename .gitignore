@@ -36,3 +36,24 @@ ENV/
 
 # Mac OS
 .DS_Store
+data/cat_dog_images/cat-01.jpg
+data/cat_dog_images/cat-02.jpg
+data/cat_dog_images/cat-03.jpg
+data/cat_dog_images/dog-01.jpg
+data/cat_dog_images/dog-02.jpg
+data/cat_dog_images/dog-03.jpg
+data/figures/12_01.png
+data/figures/12_02.png
+data/figures/12_03.pdf
+data/figures/12_04.pdf
+data/figures/12_05.pdf
+data/figures/12_06.pdf
+data/figures/12_07.pdf
+data/figures/12_08.pdf
+data/figures/12_09.pdf
+data/figures/12_10.pdf
+data/figures/12_11.png
+data/figures/celeba-files.png
+data/figures/gdrive-download-location-1.png
+data/figures/gdrive-download-location-2.png
+data/figures/gdrive-download-location-3.png
