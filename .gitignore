@@ -57,3 +57,11 @@ data/figures/celeba-files.png
 data/figures/gdrive-download-location-1.png
 data/figures/gdrive-download-location-2.png
 data/figures/gdrive-download-location-3.png
+data/MNIST/raw/t10k-images-idx3-ubyte
+data/MNIST/raw/t10k-images-idx3-ubyte.gz
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/train-images-idx3-ubyte.gz
+data/MNIST/raw/train-labels-idx1-ubyte
+data/MNIST/raw/train-labels-idx1-ubyte.gz
