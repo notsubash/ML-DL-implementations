@@ -15,3 +15,4 @@ This repository contains implementations of various Machine Learning and Deep Le
 - Agglomerative Hierarchical Clustering
 - DBSCAN Clustering
 - Artificial Neural Network from scratch
+- XOR Classification 
