@@ -65,3 +65,13 @@ data/MNIST/raw/train-images-idx3-ubyte
 data/MNIST/raw/train-images-idx3-ubyte.gz
 data/MNIST/raw/train-labels-idx1-ubyte
 data/MNIST/raw/train-labels-idx1-ubyte.gz
+miniprojects/lightning_logs/version_0/events.out.tfevents.1732189229.Subashs-MacBook-Pro.local.85364.0
+miniprojects/lightning_logs/version_0/hparams.yaml
+miniprojects/lightning_logs/version_1/events.out.tfevents.1732189435.Subashs-MacBook-Pro.local.85364.1
+miniprojects/lightning_logs/version_1/hparams.yaml
+miniprojects/lightning_logs/version_1/checkpoints/epoch=9-step=8600.ckpt
+miniprojects/lightning_logs/version_2/events.out.tfevents.1732189936.Subashs-MacBook-Pro.local.87075.0
+miniprojects/lightning_logs/version_2/hparams.yaml
+miniprojects/lightning_logs/version_2/checkpoints/epoch=9-step=8600.ckpt
+miniprojects/lightning_logs/version_3/events.out.tfevents.1732190169.Subashs-MacBook-Pro.local.87075.1
+miniprojects/lightning_logs/version_3/hparams.yaml
