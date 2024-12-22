@@ -75,3 +75,6 @@ miniprojects/lightning_logs/version_2/hparams.yaml
 miniprojects/lightning_logs/version_2/checkpoints/epoch=9-step=8600.ckpt
 miniprojects/lightning_logs/version_3/events.out.tfevents.1732190169.Subashs-MacBook-Pro.local.87075.1
 miniprojects/lightning_logs/version_3/hparams.yaml
+
+
+miniprojects/celeba/
